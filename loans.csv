@@ -1,0 +1,7 @@
+customer,loan_amount,tenure_years,status
+Anitha,200000,3,paid
+Karthik,500000,5,active
+Lakshmi,150000,2,default
+Suresh,800000,7,active
+Revathi,300000,4,paid
+Mohan,450000,5,default
